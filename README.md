@@ -1,5 +1,3 @@
-<img src="https://s3.amazonaws.com/devmountain/readme-logo.png" width="250" align="right">
-
 # Project Summary
 
 This project is geared towards helping you improve your React skills. We will provided minimal guidance compared to most afternoon projects that offer detailed instructions. Therefore, this project can be used as a good check if you are truly understanding and implementing React on your own. When you first go through these set of problems, you may need to look at solutions for help. The goal, however, should be to get to the point where you can complete all sets of problems without any help from solutions and/or mentors.
@@ -95,7 +93,6 @@ export default App;
 
 <br />
 
-<img src="https://github.com/DevMountain/react-drills/blob/assets/1g.gif" />
 
 ### App #2
 
@@ -167,8 +164,6 @@ export default App;
 </details>
 
 <br />
-
-<img src="https://github.com/DevMountain/react-drills/blob/assets/2.png" />
 
 ### App #3
 
@@ -258,8 +253,6 @@ export default App;
 
 </details>
 <br />
-
-<img src="https://github.com/DevMountain/react-drills/blob/assets/3g.gif" />
 
 ## Set 2 - State, Class Methods, Capturing User Input, Props, Multiple Components
 
@@ -406,7 +399,6 @@ export default Login
 
 <br />
 
-<img src="https://github.com/DevMountain/react-drills/blob/assets/4g.gif" />
 
 ### App #5
 
@@ -650,7 +642,6 @@ export default Todo
 
 <br />
 
-<img src="https://github.com/DevMountain/react-drills/blob/assets/6-7g.gif" />
 
 ### App #7
 
@@ -889,7 +880,6 @@ export default Todo
 
 <br />
 
-<img src="https://github.com/DevMountain/react-drills/blob/assets/6-7g.gif" />
 
 ## Set 3 - Axios ( hitting an API ), React Lifecycle Methods
 
@@ -985,7 +975,6 @@ export default App;
 
 <br />
 
-<img src="https://github.com/DevMountain/react-drills/blob/assets/8.png" />
 
 ### Extra Practice
 
@@ -1292,7 +1281,6 @@ export default Details
 
 <br />
 
-<img src="https://github.com/DevMountain/react-drills/blob/assets/9g.gif" />
 
 ### App #10
 
@@ -1618,7 +1606,6 @@ export default Details
 
 <br />
 
-<img src="https://github.com/DevMountain/react-drills/blob/assets/10g.gif" />
 
 ## Contributions
 
@@ -1627,8 +1614,3 @@ If you see a problem or a typo, please fork, make the necessary changes, and cre
 ## Copyright
 
 © DevMountain LLC, 2017. Unauthorized use and/or duplication of this material without express and written permission from DevMountain, LLC is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to DevMountain with appropriate and specific direction to the original content.
-
-<p align="center">
-<img src="https://s3.amazonaws.com/devmountain/readme-logo.png" width="250">
-</p>
-# react-drills
